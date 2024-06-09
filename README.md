@@ -1,2 +1,2 @@
-# -ikay-t
+Shikayet
 şikayətlərin olduğu platfrom
